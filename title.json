@@ -1,0 +1,40 @@
+{
+    "movie1" : {
+       "Title" : "Satellite by Harry Styles ",
+       "Directed by" : "winston ",
+       "Genre":"Action, Crime , Thriller",
+       "Link":"https://www.imdb.com/title/tt6486762/?ref_=ext_shr_lnk",
+       "id": 1
+    },
+
+    "movie2" : {
+      "Title" : "Nowhere ",
+      "Directed by" : "Albert Pintó",
+      "Genre":"Drama, Thriller",
+        "Link":"https://www.imdb.com/title/tt15789472/?ref_=ext_shr_lnk",
+        "id": 2
+     },
+
+     "movie3" : {
+      "Title" : "Equalizer 3 ",
+      "Directed by" : "Antoine Fuqua",
+      "Genre":"Action, Crime , Thriller",
+      "Link":"https://www.imdb.com/title/tt17024450/?ref_=ext_shr_lnk",
+        "id": 3
+     },
+      "movie4" : {
+        "Title" : "Red Notice",
+        "Directed by" : "Rawson Marshall Thurber",
+        "Genre":"Action, Comedy , Thriller",
+        "Link":"https://www.imdb.com/title/tt7991608/?ref_=ext_shr_lnk",
+        "id": 4
+     },
+      "movie5" : {
+         "Title" : "Adam Projects",
+         "Directed by" : "Shawn Levy",
+         "Genre":"Action, Adventure, Comedy",
+         "Link":"https://www.imdb.com/title/tt2463208/?ref_=ext_shr_lnk",
+         "id": 5
+   }
+   
+}
